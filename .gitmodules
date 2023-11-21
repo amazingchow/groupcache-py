@@ -1,0 +1,3 @@
+[submodule "groupcache"]
+	path = groupcache
+	url = https://github.com/golang/groupcache.git
