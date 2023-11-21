@@ -15,7 +15,7 @@ For more information, please visit the [GitHub repository](https://github.com/am
 
 setup(
     name='pygroupcache',
-    version='1.0.0',
+    version='1.0.1',
     description='A Python binding for groupcache',
     long_description=README,
     author='Adam Zhou',

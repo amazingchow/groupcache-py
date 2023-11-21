@@ -3,7 +3,7 @@ import ctypes
 import os
 from typing import Union
 
-root_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+root_path = os.path.dirname(os.path.abspath(__file__))
 lib = ctypes.cdll.LoadLibrary(os.path.join(root_path, "libs/groupcache.so"))
 
 gget = lib.cache_get
