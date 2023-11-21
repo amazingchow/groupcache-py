@@ -1,2 +1,6 @@
 include LICENSE.txt
+include pygroupcache/libs/groupcache_41bb18b.h
+include pygroupcache/libs/groupcache_41bb18b.so
+include pygroupcache/libs/groupcache.h
+include pygroupcache/libs/groupcache.so
 recursive-include tests *.py
